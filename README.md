@@ -1,0 +1,1 @@
+# Credot ESLint configs
